@@ -16,4 +16,8 @@
 
 <br clear="right">
 
+### 更多视频
+
+[30 秒个人网站宣传片](https://zyf990103-ops.github.io/self-introduction/website-video/) · [我和多多](https://zyf990103-ops.github.io/self-introduction/#duoduo) · [我的茶室](https://zyf990103-ops.github.io/self-introduction/#tea)
+
 [网页设计手账](https://zyf990103-ops.github.io/self-introduction/design-keywords/) · [网站源码](https://github.com/zyf990103-ops/self-introduction)
