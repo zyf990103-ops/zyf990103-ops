@@ -1,11 +1,19 @@
-[![赵宇凡 · 宇凡有饭｜紫砂刻绘、一人食、多多日常](assets/profile-banner.jpg)](https://zyf990103-ops.github.io/self-introduction/)
+# 宇凡有饭
 
-我是赵宇凡，也叫阿凡。2019 年开始做紫砂刻绘，现为助理工艺美术师。在「宇凡有饭」，我记录一人食和小狗多多的日常。
+一餐一饭，一刀一刻。
 
-## 看我的作品
+<a href="https://zyf990103-ops.github.io/self-introduction/yufan-youfan/">
+  <img align="right" width="112" src="https://zyf990103-ops.github.io/self-introduction/yufan-youfan/cover.jpg" alt="「宇凡有饭」自我介绍短片封面">
+</a>
 
-- 我把花草、虫趣和人物刻进紫砂器。[看紫砂刻绘作品](https://zyf990103-ops.github.io/self-introduction/#works)
-- 用 60 秒认识我和多多。[看「宇凡有饭」自我介绍](https://zyf990103-ops.github.io/self-introduction/yufan-youfan/)
-- 从 10 个网站选出 50 张参考图，记录我想学的设计细节。[翻阅网页设计手账](https://zyf990103-ops.github.io/self-introduction/design-keywords/)
+## 60 秒认识阿凡和多多
 
-[个人网站](https://zyf990103-ops.github.io/self-introduction/) · [网站源码](https://github.com/zyf990103-ops/self-introduction)
+我是赵宇凡。做紫砂刻绘，拍一人食，也拍小狗多多。
+
+**[▶ 看我的自我介绍](https://zyf990103-ops.github.io/self-introduction/yufan-youfan/)**
+
+[看紫砂刻绘作品](https://zyf990103-ops.github.io/self-introduction/#works) · [逛我的个人网站](https://zyf990103-ops.github.io/self-introduction/)
+
+<br clear="right">
+
+[网页设计手账](https://zyf990103-ops.github.io/self-introduction/design-keywords/) · [网站源码](https://github.com/zyf990103-ops/self-introduction)
